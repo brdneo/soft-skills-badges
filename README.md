@@ -1,2 +1,3 @@
-# soft-skills-badges
-:octocat: Improve your README.md profile with these amazing badges.
+<h1 align="center">
+  Soft Skills Badges for README.md profile
+</h1>
